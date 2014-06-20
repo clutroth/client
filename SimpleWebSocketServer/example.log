@@ -1,0 +1,67 @@
+DEBUG:root:('10.0.2.2', 48596) fun() takes no arguments (1 given)
+DEBUG:root:('10.0.2.2', 48620) no such table: user
+DEBUG:root:('10.0.2.2', 48741) UNIQUE constraint failed: user.name
+DEBUG:root:('10.0.2.2', 48787) UNIQUE constraint failed: user.name
+DEBUG:root:('10.0.2.2', 49489) global name 'slef' is not defined
+DEBUG:root:('10.0.2.2', 49512) UNIQUE constraint failed: user.name
+DEBUG:root:('10.0.2.2', 49884) 'sqlite3.Cursor' object has no attribute 'commit'
+DEBUG:root:('10.0.2.2', 54778) received client close
+DEBUG:root:('10.0.2.2', 54974) UNIQUE constraint failed: user.name
+DEBUG:root:('10.0.2.2', 55269) UNIQUE constraint failed: user.name
+DEBUG:root:('10.0.2.2', 55359) global name 'LOGIN_NAME_EXISTS' is not defined
+DEBUG:root:('10.0.2.2', 55386) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 55413) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 55414) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 55470) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 55471) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 55990) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 55996) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56024) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56025) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56052) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56053) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56080) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56081) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56082) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56083) 'SimpleChat' object has no attribute 'f'
+DEBUG:root:('10.0.2.2', 56084) list index out of range
+DEBUG:root:('10.0.2.2', 56109) list index out of range
+DEBUG:root:('10.0.2.2', 56110) list index out of range
+DEBUG:root:('10.0.2.2', 56137) list index out of range
+DEBUG:root:('10.0.2.2', 56138) list index out of range
+DEBUG:root:('10.0.2.2', 58057) list index out of range
+DEBUG:root:('10.0.2.2', 58089) list index out of range
+DEBUG:root:('10.0.2.2', 58145) list index out of range
+DEBUG:root:('10.0.2.2', 58172) list index out of range
+DEBUG:root:('10.0.2.2', 58180) ssss
+DEBUG:root:('10.0.2.2', 58181) list index out of range
+DEBUG:root:('10.0.2.2', 58208) ssss
+DEBUG:root:('10.0.2.2', 58209) ssss
+DEBUG:root:('10.0.2.2', 58212) list index out of range
+DEBUG:root:('10.0.2.2', 58241) list index out of range
+DEBUG:root:('10.0.2.2', 58245) list index out of range
+DEBUG:root:('10.0.2.2', 35027) global name 'sq' is not defined
+DEBUG:root:('10.0.2.2', 35028) no msg
+DEBUG:root:('10.0.2.2', 35061) UNIQUE constraint failed: user.name
+DEBUG:root:('10.0.2.2', 52163) [Errno 1] _ssl.c:1429: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+DEBUG:root:('10.0.2.2', 52164) [Errno 1] _ssl.c:1429: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+DEBUG:root:('10.0.2.2', 52183) [Errno 1] _ssl.c:1429: error:14094418:SSL routines:SSL3_READ_BYTES:tlsv1 alert unknown ca
+DEBUG:root:('10.0.2.2', 52190) __init__() takes exactly 4 arguments (3 given)
+DEBUG:root:('10.0.2.2', 52208) 
+DEBUG:root:('10.0.2.2', 52230) 
+DEBUG:root:('10.0.2.2', 52231) 
+DEBUG:root:('10.0.2.2', 52232) 
+DEBUG:root:('10.0.2.2', 52243) 
+DEBUG:root:('10.0.2.2', 53020) global name 'PasswordsDoesNotMatch' is not defined
+DEBUG:root:('10.0.2.2', 53048) global name 'PasswordsDoesNotMatch' is not defined
+DEBUG:root:('10.0.2.2', 53059) global name 'PasswordsDoesNotMatch' is not defined
+DEBUG:root:('10.0.2.2', 53060) global name 'PasswordsDoesNotMatch' is not defined
+DEBUG:root:('10.0.2.2', 53061) 
+DEBUG:root:('10.0.2.2', 53070) global name 'slef' is not defined
+DEBUG:root:('10.0.2.2', 53071) 
+DEBUG:root:('10.0.2.2', 53333) 
+DEBUG:root:('10.0.2.2', 53334) 
+DEBUG:root:('10.0.2.2', 53335) 
+DEBUG:root:('10.0.2.2', 53448) 
+DEBUG:root:('10.0.2.2', 53457) passwords does not match
+DEBUG:root:('10.0.2.2', 53477) passwords does not match

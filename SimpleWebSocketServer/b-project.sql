@@ -1,0 +1,8 @@
+BEGIN;
+CREATE TABLE "user" (
+    "id"    INTEGER PRIMARY KEY AUTOINCREMENT,
+    "name" TEXT NOT NULL UNIQUE,
+    "salt" TEXT NOT NULL, 
+    "password" TEXT NOT NULL
+);
+COMMIT;
